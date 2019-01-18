@@ -10,8 +10,8 @@ include_once 'header.php';
             }
 
             ?>
-            <h3>Welcome to the Online Library.The place for all book lovers.</h3>
-            
+            <h3>Welcome to the Online Library.The place for all book lovers.Please login or sign up if you are a new user.</h3>
+
     <section class="title">
         <h1>About Website</h1>
         <div id="text">
@@ -26,5 +26,3 @@ include_once 'header.php';
 <?php
 include_once 'footer.php';
 ?>
-
-
